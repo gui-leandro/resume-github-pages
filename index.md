@@ -1,6 +1,4 @@
-# Guilherme Leandro Rolim
-
-## Perfil
+# Perfil
 
 Graduando em Sistemas de Informação e apaixonado pela tecnologia da informação, já realizei diversos cursos online para enriquecer meus conhecimentos na área que eu mais amo, a de DESENVOLVIMENTO web com JavaScript, possuo mais de 100 horas em certificados de cursos online na área de TI, com o objetivo de me tornar um grande profissional da área. Autodidata e engajado por adquirir novos conhecimentos, mantenho sempre o interesse por aprender novas tecnologias e aprimorar tudo o que sei.
 
@@ -15,7 +13,7 @@ Graduando em Sistemas de Informação e apaixonado pela tecnologia da informaç�
 
 # Graduação
 ## Universidade Anhembi Morumbi
-Sistemas de Informação (02/2019 - 06/2022)
+- Sistemas de Informação (02/2019 - 06/2022)
 
 
 # Habilidades
@@ -42,7 +40,7 @@ function mySkills() = {
 ~~~
 
 
-# Certificados
+# Cursos e Certificados
 
 ### Introdução ao Git e Controle de Versões
 - Digital Innovation One lnc.

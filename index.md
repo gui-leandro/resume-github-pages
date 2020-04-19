@@ -71,4 +71,4 @@ function mySkills() = {
 
 - [E-mail](mailto:guilherme.gl1997@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/guirdy1/)
-- [GitHub](https://github.com/Guirdy)
+- [GitHub](https://github.com/gui-leandro)

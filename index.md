@@ -43,27 +43,31 @@ function mySkills() = {
 # Cursos e Certificados
 
 ### Introdução ao Git e Controle de Versões
-- Digital Innovation One lnc.
+- Digital Innovation One lnc. 
 [Certificado](https://certificates.digitalinnovation.one/C7A0FF30)
 
 ### Semana OmniStack 11
-- Rockeatseat.
+- Rockeatseat. 
 [Certificado](https://storage.googleapis.com/golden-wind/semana-omnistack-11/guilherme.gl1997@gmail.com.pdf)
 
 ### Programação para internet com JavaScript
-- Digital Innovation One lnc.
+- Digital Innovation One lnc. 
 [Certificado](https://certificates.digitalinnovation.one/94D9C4FE)
 
+### Curso de Java Completo Orientado a Objetos
+- Udemy. 
+[Certificado](https://www.udemy.com/certificate/UC-d26e64ec-b3b2-4cd8-8e18-3b0a4a677278/)
+
 ### Curso de Java
-- Curso em Vídeo.
+- Curso em Vídeo. 
 [Certificado](https://www.cursoemvideo.com/wp-content/uploads/2019/04/2426-16213.jpeg)
 
 ### Curso de Java Orientado a Objetos
-- Curso em Vídeo.
+- Curso em Vídeo. 
 [Certificado](https://www.cursoemvideo.com/wp-content/uploads/2019/04/2440-16213.jpeg)
 
 ### Curso de HTML5 e CSS3
-- Curso em Vídeo.
+- Curso em Vídeo. 
 [Certificado](https://www.cursoemvideo.com/wp-content/uploads/2019/08/992-16213.jpeg)
 
 

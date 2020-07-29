@@ -60,18 +60,6 @@ function mySkills() = {
 - Udemy. 
 [Certificado](https://www.udemy.com/certificate/UC-d26e64ec-b3b2-4cd8-8e18-3b0a4a677278/)
 
-### Curso de Java
-- Curso em Vídeo. 
-[Certificado](https://www.cursoemvideo.com/wp-content/uploads/2019/04/2426-16213.jpeg)
-
-### Curso de Java Orientado a Objetos
-- Curso em Vídeo. 
-[Certificado](https://www.cursoemvideo.com/wp-content/uploads/2019/04/2440-16213.jpeg)
-
-### Curso de HTML5 e CSS3
-- Curso em Vídeo. 
-[Certificado](https://www.cursoemvideo.com/wp-content/uploads/2019/08/992-16213.jpeg)
-
 
 ## Contatos
 
